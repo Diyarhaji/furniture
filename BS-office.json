@@ -1,0 +1,169 @@
+[
+    {
+        "id": 1,
+        "imgOne": "bestseller/office/front (1).webp",
+        "imgTwo": "bestseller/office/back (1).webp",
+        "name": "Fantol Warm Oak Leaning Desk",
+        "price": 799
+    },
+    {
+        "id": 2,
+        "imgOne": "bestseller/office/front (2).webp",
+        "imgTwo": "bestseller/office/back (2).webp",
+        "name": "Elso Charme Tan Office Chair",
+        "price": 419
+    },
+    {
+        "id": 3,
+        "imgOne": "bestseller/office/front (3).webp",
+        "imgTwo": "bestseller/office/back (3).webp",
+        "name": "Haptic Walnut Large Standing Desk",
+        "price": 799
+    },
+    {
+        "id": 4,
+        "imgOne": "bestseller/office/front (4).webp",
+        "imgTwo": "bestseller/office/back (4).webp",
+        "name": "Deca Oak Cabinet",
+        "price": 499
+    },
+    {
+        "id": 5,
+        "imgOne": "bestseller/office/front (5).webp",
+        "imgTwo": "bestseller/office/back (5).webp",
+        "name": "Haptic Oak Small Standing Desk",
+        "price": 599
+    },
+    {
+        "id": 6,
+        "imgOne": "bestseller/office/front (6).webp",
+        "imgTwo": "bestseller/office/back (6).webp",
+        "name": "Newberry Walnut Cabinet",
+        "price": 499
+    },
+    {
+        "id": 7,
+        "imgOne": "bestseller/office/front (7).webp",
+        "imgTwo": "bestseller/office/back (7).webp",
+        "name": "Fantol White Desk",
+        "price": 339
+    },
+    {
+        "id": 8,
+        "imgOne": "bestseller/office/front (8).webp",
+        "imgTwo": "bestseller/office/back (8).webp",
+        "name": "Krossa White Oak File Cabinet",
+        "price": 399
+    },
+    {
+        "id": 9,
+        "imgOne": "bestseller/office/front (9).webp",
+        "imgTwo": "bestseller/office/back (9).webp",
+        "name": "Newberry Walnut Desk",
+        "price": 419
+    },
+    {
+        "id": 10,
+        "imgOne": "bestseller/office/front (10).webp",
+        "imgTwo": "bestseller/office/back (10).webp",
+        "name": "Krossa Walnut Desk",
+        "price": 899
+    },
+    {
+        "id": 11,
+        "imgOne": "bestseller/office/front (11).webp",
+        "imgTwo": "bestseller/office/back (11).webp",
+        "name": "Passo Sprout Gray Office Chair",
+        "price": 199
+    },
+    {
+        "id": 12,
+        "imgOne": "bestseller/office/front (12).webp",
+        "imgTwo": "bestseller/office/back (12).webp",
+        "name": "Passo Charme Tan Office Chair",
+        "price": 349
+    },
+    {
+        "id": 13,
+        "imgOne": "bestseller/office/front (13).webp",
+        "imgTwo": "bestseller/office/back (13).webp",
+        "name": "Krossa Walnut Executive Desk",
+        "price": 1199
+    },
+    {
+        "id": 14,
+        "imgOne": "bestseller/office/front (14).webp",
+        "imgTwo": "bestseller/office/back (14).webp",
+        "name": "Madera Oak 54' Desk",
+        "price": 699
+    },
+    {
+        "id": 15,
+        "imgOne": "bestseller/office/front (15).webp",
+        "imgTwo": "bestseller/office/back (15).webp",
+        "name": "Madera Chestnut File Cabinet",
+        "price": 399
+    },
+    {
+        "id": 16,
+        "imgOne": "bestseller/office/front (16).webp",
+        "imgTwo": "bestseller/office/back (16).webp",
+        "name": "Newberry Walnut Wide Bookcase",
+        "price": 799
+    },
+    {
+        "id": 17,
+        "imgOne": "bestseller/office/front (17).webp",
+        "imgTwo": "bestseller/office/back (17).webp",
+        "name": "Deca Oak Desk",
+        "price": 599
+    },
+    {
+        "id": 18,
+        "imgOne": "bestseller/office/front (18).webp",
+        "imgTwo": "bestseller/office/back (18).webp",
+        "name": "Newberry Walnut Narrow Bookcase",
+        "price": 599
+    },
+    {
+        "id": 19,
+        "imgOne": "bestseller/office/front (19).webp",
+        "imgTwo": "bestseller/office/back (19).webp",
+        "name": "Svelti Aloe Green Office Chair",
+        "price": 89
+    },
+    {
+        "id": 20,
+        "imgOne": "bestseller/office/front (20).webp",
+        "imgTwo": "bestseller/office/back (20).webp",
+        "name": "Krossa White Oak 35' Shelf",
+        "price": 499
+    },
+    {
+        "id": 21,
+        "imgOne": "bestseller/office/front (21).webp",
+        "imgTwo": "bestseller/office/back (21).webp",
+        "name": "Madera Oak 71' Desk",
+        "price": 799
+    },
+    {
+        "id": 22,
+        "imgOne": "bestseller/office/front (22).webp",
+        "imgTwo": "bestseller/office/back (22).webp",
+        "name": "Baarlo Oak Desk",
+        "price": 1099 
+    },{
+        "id": 23,
+        "imgOne": "bestseller/office/front (23).webp",
+        "imgTwo": "bestseller/office/back (23).webp",
+        "name": "Krossa Walnut 70' Shelf",
+        "price": 799
+    },
+    {
+        "id": 24,
+        "imgOne": "bestseller/office/front (24).webp",
+        "imgTwo": "bestseller/office/back (24).webp",
+        "name": "Culla Walnut Desk",
+        "price": 499
+    }
+]

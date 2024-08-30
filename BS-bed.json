@@ -1,0 +1,288 @@
+[
+    {
+        "id": 1, 
+        "imgOne": "bestseller/bed/front (1).webp",
+        "imgTwo": "bestseller/bed/back (1).webp",
+        "name": "Sven Birch Ivory Queen Bed",
+        "price": 999
+    },
+    {
+        "id": 2,
+        "imgOne": "bestseller/bed/front (2).webp",
+        "imgTwo": "bestseller/bed/back (2).webp",
+        "name": "Sven Yarrow Gold Queen Bed",
+        "price": 1099
+    },
+    {
+        "id": 3,
+        "imgOne": "bestseller/bed/front (3).webp",
+        "imgTwo": "bestseller/bed/back (3).webp",
+        "name": "Sven 56' Leather Bench - Oxford Black",
+        "price": 699
+    },
+    {
+        "id": 4,
+        "imgOne": "bestseller/bed/front (4).webp",
+        "imgTwo": "bestseller/bed/back (4).webp",
+        "name": "Ansa Charme Tan Bench",
+        "price": 799
+    },
+    {
+        "id": 5,
+        "imgOne": "bestseller/bed/front (5).webp",
+        "imgTwo": "bestseller/bed/back (5).webp",
+        "name": "Almelo Hale Rust King Headboard",
+        "price": 799
+    },
+    {
+        "id": 6,
+        "imgOne": "bestseller/bed/front (6).webp",
+        "imgTwo": "bestseller/bed/back (6).webp",
+        "name": "Lenia Rain Cloud Gray White Oak Queen Bed",
+        "price": 1199
+    },
+    {
+        "id": 7,
+        "imgOne": "bestseller/bed/front (7).webp",
+        "imgTwo": "bestseller/bed/back (7).webp",
+        "name": "Nederin Pebble Gray Walnut Bench",
+        "price": 699
+    },
+    {
+        "id": 8,
+        "imgOne": "bestseller/bed/front (8).webp",
+        "imgTwo": "bestseller/bed/back (8).webp",
+        "name": "Noel Lunaria White Bouclé King 48' Headboard",
+        "price": 699
+    },
+    {
+        "id": 9,
+        "imgOne": "bestseller/bed/front (9).webp",
+        "imgTwo": "bestseller/bed/back (9).webp",
+        "name": "Almelo Hale Rust Queen Headbo",
+        "price": 699
+    },
+    {
+        "id": 10,
+        "imgOne": "bestseller/bed/front (10).webp",
+        "imgTwo": "bestseller/bed/back (10).webp",
+        "name": "Nera Walnut California King Bed with Nightstands",
+        "price": 1529
+    },
+    {
+        "id": 11,
+        "imgOne": "bestseller/bed/front (11).webp",
+        "imgTwo": "bestseller/bed/back (11).webp",
+        "name": "Vireo Walnut 2-Drawer Nightstand",
+        "price": 399
+    },
+    {
+        "id": 12,
+        "imgOne": "bestseller/bed/front (12).webp",
+        "imgTwo": "bestseller/bed/back (12).webp",
+        "name": "Kayra Ivory Bouclé Queen Bed",
+        "price": 1299
+    },
+    {
+        "id": 13,
+        "imgOne": "bestseller/bed/front (13).webp",
+        "imgTwo": "bestseller/bed/back (13).webp",
+        "name": "Lenia Panel White Oak Full Bed",
+        "price": 899
+    },
+    {
+        "id": 14,
+        "imgOne": "bestseller/bed/front (14).webp",
+        "imgTwo": "bestseller/bed/back (14).webp",
+        "name": "Dalsa Warm Oak Nightstand",
+        "price": 249
+    },
+    {
+        "id": 15,
+        "imgOne": "bestseller/bed/front (15).webp",
+        "imgTwo": "bestseller/bed/back (15).webp",
+        "name": "Nera Oak Queen Bed",
+        "price": 1099
+    },
+    {
+        "id": 16,
+        "imgOne": "bestseller/bed/front (16).webp",
+        "imgTwo": "bestseller/bed/back (16).webp",
+        "name": "Nera Walnut King Bed",
+        "price": 1299
+    },
+    {
+        "id": 17,
+        "imgOne": "bestseller/bed/front (17).webp",
+        "imgTwo": "bestseller/bed/back (17).webp",
+        "name": "Leesa Studio Queen Mattress",
+        "price": 559
+    },
+    {
+        "id": 18,
+        "imgOne": "bestseller/bed/front (18).webp",
+        "imgTwo": "bestseller/bed/back (18).webp",
+        "name": "Kouva Oak King Storage Headboard",
+        "price": 899
+    },
+    {
+        "id": 19,
+        "imgOne": "bestseller/bed/front (19).webp",
+        "imgTwo": "bestseller/bed/back (19).webp",
+        "name": "Lenia White Oak Queen Bed",
+        "price": 999
+    },
+    {
+        "id": 20,
+        "imgOne": "bestseller/bed/front (20).webp",
+        "imgTwo": "bestseller/bed/back (20).webp",
+        "name": "Sven Birch Ivory King Bed",
+        "price": 1199
+    },
+    {
+        "id": 21,
+        "imgOne": "bestseller/bed/front (21).webp",
+        "imgTwo": "bestseller/bed/back (21).webp",
+        "name": "Kouva White Queen Storage Headboard",
+        "price": 479
+    },
+    {
+        "id": 22,
+        "imgOne": "bestseller/bed/front (22).webp",
+        "imgTwo": "bestseller/bed/back (22).webp",
+        "name": "Lenia Walnut King Bed",
+        "price": 1199
+    },
+    {
+        "id": 23,
+        "imgOne": "bestseller/bed/front (23).webp",
+        "imgTwo": "bestseller/bed/back (23).webp",
+        "name": "Kayra Ivory Bouclé King Bed",
+        "price": 1499
+    },
+    {
+        "id": 24,
+        "imgOne": "bestseller/bed/front (24).webp",
+        "imgTwo": "bestseller/bed/back (24).webp",
+        "name": "Basi Walnut Full Bed Frame",
+        "price": 349
+    },
+    {
+        "id": 25,
+        "imgOne": "bestseller/bed/front (25).webp",
+        "imgTwo": "bestseller/bed/back (25).webp",
+        "name": "Gabriola Ivory Bouclé Bench",
+        "price": 399
+    },
+    {
+        "id": 26,
+        "imgOne": "bestseller/bed/front (26).webp",
+        "imgTwo": "bestseller/bed/back (26).webp",
+        "name": "Nera Walnut Queen Bed with Nightstands",
+        "price": 1499
+    },
+    {
+        "id": 27,
+        "imgOne": "bestseller/bed/front (27).webp",
+        "imgTwo": "bestseller/bed/back (27).webp",
+        "name": "Nera Walnut 6-Drawer Low Double Dresser",
+        "price": 1399
+    },
+    {
+        "id": 28,
+        "imgOne": "bestseller/bed/front (28).webp",
+        "imgTwo": "bestseller/bed/back (28).webp",
+        "name": "Tessu Glaze Gray Queen Bed",
+        "price": 899
+    },
+    {
+        "id": 29,
+        "imgOne": "bestseller/bed/front (29).webp",
+        "imgTwo": "bestseller/bed/back (29).webp",
+        "name": "Nera Walnut 5-Drawer Chest",
+        "price": 1199
+    },
+    {
+        "id": 30,
+        "imgOne": "bestseller/bed/front (30).webp",
+        "imgTwo": "bestseller/bed/back (30).webp",
+        "name": "Nera Walnut 1-Drawer Nightstand",
+        "price": 349
+    },
+    {
+        "id": 31,
+        "imgOne": "bestseller/bed/front (31).webp",
+        "imgTwo": "bestseller/bed/back (31).webp",
+        "name": "Nera Walnut 6-Drawer Double Dresser",
+        "price": 1499
+    },
+    {
+        "id": 32,
+        "imgOne": "bestseller/bed/front (32).webp",
+        "imgTwo": "bestseller/bed/back (32).webp",
+        "name": "Lenia Walnut 2-Drawer Nightstand",
+        "price": 449
+    },
+    {
+        "id": 33,
+        "imgOne": "bestseller/bed/front (33).webp",
+        "imgTwo": "bestseller/bed/back (33).webp",
+        "name": "Lenia Panel Walnut King Bed",
+        "price": 1199
+    },
+    {
+        "id": 34,
+        "imgOne": "bestseller/bed/front (34).webp",
+        "imgTwo": "bestseller/bed/back (34).webp",
+        "name": "Lenia White Oak 6-Drawer Double Dresser",
+        "price": 1299
+    },
+    {
+        "id": 35,
+        "imgOne": "bestseller/bed/front (35).webp",
+        "imgTwo": "bestseller/bed/back (35).webp",
+        "name": "Lenia White Oak 4-Drawer Chest",
+        "price": 899
+    },
+    {
+        "id": 36,
+        "imgOne": "bestseller/bed/front (36).webp",
+        "imgTwo": "bestseller/bed/back (36).webp",
+        "name": "Lenia Panel Walnut Queen Bed",
+        "price": 999
+    },
+    {
+        "id": 37,
+        "imgOne": "bestseller/bed/front (37).webp",
+        "imgTwo": "bestseller/bed/back (37).webp",
+        "name": "Basi Oak King Bed Frame",
+        "price": 499
+    },
+    {
+        "id": 38,
+        "imgOne": "bestseller/bed/front (38).webp",
+        "imgTwo": "bestseller/bed/back (38).webp",
+        "name": "Nera Walnut King Bed with Nightstands",
+        "price": 1699
+    },
+    {
+        "id": 39,
+        "imgOne": "bestseller/bed/front (39).webp",
+        "imgTwo": "bestseller/bed/back (39).webp",
+        "name": "Lenia Walnut 9-Drawer Dresser",
+        "price": 1699
+    },{
+        "id": 40,
+        "imgOne": "bestseller/bed/front (40).webp",
+        "imgTwo": "bestseller/bed/back (40).webp",
+        "name": "Basi White Queen Bed Frame",
+        "price": 299
+    },
+    {
+        "id": 41,
+        "imgOne": "bestseller/bed/front (41).webp",
+        "imgTwo": "bestseller/bed/back (41).webp",
+        "name": "Tessu Clay Taupe King Bed",
+        "price": 999
+    }
+]

@@ -1,0 +1,396 @@
+
+.textoneone{
+    top: 4vh;
+    left: 49vw;
+}
+.dotoneone{
+     top: 6vh;
+    left: 62vw;
+}
+
+
+.textonethree{
+    top: 20vh;
+    left: 21vw;
+
+}
+.dotonethree{
+    top: 27vh;
+    left: 27vw;
+} 
+.textonefour{
+    top: 45vh;
+    left: 7vw;
+
+}
+.dotonefour{
+    top: 47vh;
+    left: 20vw;
+}
+
+
+/* two */
+.texttwoone{
+    top: 20vh;
+    left: 30vw;
+
+}
+.dottwoone{
+    top: 29vh;
+    left: 36vw;
+}
+.texttwotwo {
+    top: 50vh;
+    left: 65vw;
+}
+.dottwotwo{
+    top: 54vh;
+    left:64vw;
+}
+.texttwothree{
+    top: 36vh;
+    left: 41vw;
+}
+.dottwothree{
+    top: 43vh;
+    left: 45vw;
+}
+.texttwofour{
+    top: 52vh;
+    left:4vw;
+}
+.dottwofour{
+    top: 61vh;
+    left: 10vw;
+}
+
+
+
+/* three */
+.textthreeone{
+    top: 7vh;
+    left:50vh;
+
+}
+.dotthreeone{
+    top: 9vh;
+    left: 47vh;
+}
+
+.textthreetwo {
+    top: 17vh;
+    left: 58vh;
+}
+.dotthreetwo{
+    top: 25vh;
+    left: 72vh;
+}
+
+.textthreethree{
+    top: 37vh;
+    left: 97vh;
+}
+.dotthreethree{
+    top: 40vh;
+    left: 95vh;
+}
+
+.textthreefour{
+    top: 17vh;
+    left:26vh;
+}
+.dotthreefour{
+    top: 22vh;
+    left: 33vh;
+}
+/* four         */
+.textfourone{
+    top: 8vh;
+    left:30vw;
+
+}
+.dotfourone{
+    top: 10vh;
+    left: 29vw;
+}
+
+.textfourtwo {
+    top: 46vh;
+    left: 49vw;
+}
+.dotfourtwo{
+    top: 50vh;
+    left: 48vw;
+}
+/* five       */
+.textfiveone{
+    top: 17vh;
+    left:52vw;
+
+}
+.dotfiveone{
+    top: 25vh;
+    left: 58vw;
+}
+
+.textfivetwo {
+    top: 35vh;
+    left: 10vw;
+}
+.dotfivetwo{
+    top: 39vh;
+    left: 9vw;
+}
+
+
+.textfivetthree{
+    top: 31vh;
+    left:40vw;
+
+}
+.dotfivethree{
+    top: 39vh;
+    left: 46vw;
+}
+
+.textfivefour{
+    top: 50vh;
+    left: 19vw;
+}
+.dotfivefour{
+    top: 54vh;
+    left: 32vw;
+
+}
+
+.textfivefive{
+    top: 56vh;
+    left: 59vw;
+}
+.dotfivefive{
+    top: 59vh;
+    left: 58vw;
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 430px){
+        
+    .shoping{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 4rem 1rem;
+        
+
+    }
+    .cate{
+        border-top: none;
+    }
+    .shoping img{
+        width: 100%;
+        padding: .4rem .3rem ;
+        aspect-ratio: 4/5;
+
+    }
+    .textshop{
+        color:#7E7E7E ;
+        margin: 4rem 0 0 .6rem ;
+    }
+    .textshop h2{
+        font-size: 2rem;
+        font-family: "Raleway", sans-serif;
+    }
+    .textshop p{
+        font-size: 1.4rem;
+        font-family: "Raleway", sans-serif;
+        padding: 1.3rem 0;
+    }
+    .lifeswiper{
+        aspect-ratio: 2/0;
+
+    }
+    .life{
+    margin-bottom: 1rem;
+
+    }
+    .life h2{
+        font-size: 2rem;
+        font-family: "Raleway", sans-serif;
+        color:#7E7E7E ;
+        margin: 1rem 0 1.8rem 1rem ;
+
+    }
+
+    .prelife{
+        margin-right: 3rem;
+    }
+
+
+
+
+        
+    .textoneone{
+        top: 4vh;
+        left: 57vw;
+    }
+    .dotoneone{
+        top: 6vh;
+        left: 94vw;
+    }
+
+
+    .textonethree{
+        top: 12.5vh;
+        left: 13vw;
+
+    }
+    .dotonethree{
+        top: 16vh;
+        left: 27vw;
+    } 
+    .textonefour{
+        top: 31vh;
+        left: 26vw;
+
+    }
+    .dotonefour{
+        top: 32vh;
+        left: 22vw;
+    }
+
+
+    /* two */
+    .texttwoone{
+        top: 12vh;
+        left: 30vw;
+
+    }
+    .dottwoone{
+        top: 18vh;
+        left: 43vw;
+    }
+    .texttwotwo {
+        top: 2vh;
+        left: 36vw;
+    }
+    .dottwotwo{
+        top: 4vh;
+        left:73vw;
+    }
+    .texttwothree{
+        top: 26vh;
+        left: 66vw;
+    }
+    .dottwothree{
+        top: 27vh;
+        left: 62vw;
+    }
+    .texttwofour{
+        top: 37vh;
+        left:5vw;
+    }
+    .dottwofour{
+        top: 39vh;
+        left: 1vw;
+    }
+
+
+
+    /* three */
+    .textthreeone{
+        top: 7vh;
+        left:13vh;
+
+    }
+    .dotthreeone{
+        top: 8vh;
+        left: 10vh;
+    }
+
+    .textthreetwo {
+        top: 21vh;
+        left: 13vh;
+    }
+    .dotthreetwo{
+        top: 19vh;
+        left: 22vh;
+    }
+
+    .textthreethree{
+        top: 20vh;
+        left: 37vh;
+    }
+    .dotthreethree{
+        top: 22vh;
+        left: 35vh;
+    }
+
+  
+    /* four         */
+    .textfourone{
+        top: 6vh;
+        left:33vw;
+
+    }
+    .dotfourone{
+        top: 7vh;
+        left: 30vw;
+    }
+
+    .textfourtwo {
+        top: 25vh;
+        left: 69vw;
+    }
+    .dotfourtwo{
+        top: 27vh;
+        left: 64vw;
+    }
+    /* five       */
+    .textfiveone{
+        top: 10vh;
+        left:68vw;
+
+    }
+    .dotfiveone{
+        top: 15vh;
+        left: 87vw;
+    }
+
+    .textfivetwo {
+       display: none;
+    }
+    .dotfivetwo{
+        display: none;
+        ;
+    }
+
+
+    .textfivetthree{
+        top: 18vh;
+        left:5vw;
+
+    }
+    .dotfivethree{
+        top: 22vh;
+        left: 21vw;
+    }
+
+    .textfivefour{
+        top: 28vh;
+        left: 2vw;
+    }
+    .dotfivefour{
+        top: 31vh;
+        left: 37vw;
+
+    }
+
+    .textfivefive{
+        top: 39vh;
+        left: 66vw;
+    }
+    .dotfivefive{
+        top: 37vh;
+        left: 79vw;
+
+    }
+}

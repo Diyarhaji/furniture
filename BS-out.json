@@ -1,0 +1,337 @@
+[
+    {
+        "id": 1,
+        "imgOne": "bestseller/out/front (1).webp",
+        "imgTwo": "bestseller/out/back (1).webp",
+        "name": "Medan 24.5' Rocking Lounge Chair - Graphite",
+        "price": 549
+    }, 
+    {
+        "id": 2,
+        "imgOne": "bestseller/out/front (2).webp",
+        "imgTwo": "bestseller/out/back (2).webp",
+        "name": "Callais Latte Brown Coffee Table",
+        "price": 499
+    },
+    {
+        "id": 3,
+        "imgOne": "bestseller/out/front (3).webp",
+        "imgTwo": "bestseller/out/back (3).webp",
+        "name": "Tana Stool",
+        "price": 279
+    },
+    {
+        "id": 4,
+        "imgOne": "bestseller/out/front (4).webp",
+        "imgTwo": "bestseller/out/back (4).webp",
+        "name": "Sora Beach Sand Sofa",
+        "price": 897
+    },
+    {
+        "id": 5,
+        "imgOne": "bestseller/out/front (5).webp",
+        "imgTwo": "bestseller/out/back (5).webp",
+        "name": "Sora Beach Sand Loveseat",
+        "price": 629
+    },
+    {
+        "id": 6,
+        "imgOne": "bestseller/out/front (6).webp",
+        "imgTwo": "bestseller/out/back (6).webp",
+        "name": "Atra Concrete Round Coffee Table",
+        "price": 299
+    },
+    {
+        "id": 7,
+        "imgOne": "bestseller/out/front (7).webp",
+        "imgTwo": "bestseller/out/back (7).webp",
+        "name": "Gera Black Granite Side Table Set",
+        "price": 341
+    },
+    {
+        "id": 8,
+        "imgOne": "bestseller/out/front (8).webp",
+        "imgTwo": "bestseller/out/back (8).webp",
+        "name": "Lubek 69.25' Low Right Chaise Lounge - Slate Gray",
+        "price": 799
+    },
+    {
+        "id": 9,
+        "imgOne": "bestseller/out/front (9).webp",
+        "imgTwo": "bestseller/out/back (9).webp",
+        "name": "Skane Black Coffee Table",
+        "price": 499
+    },
+    {
+        "id": 10,
+        "imgOne": "bestseller/out/front (10).webp",
+        "imgTwo": "bestseller/out/back (10).webp",
+        "name": "Atra Concrete Round Side Table",
+        "price": 149
+    },
+    {
+        "id": 11,
+        "imgOne": "bestseller/out/front (11).webp",
+        "imgTwo": "bestseller/out/back (11).webp",
+        "name": "Zina Ember Black Bar Stool",
+        "price": 179
+    },
+    {
+        "id": 12,
+        "imgOne": "bestseller/out/front (12).webp",
+        "imgTwo": "bestseller/out/back (12).webp",
+        "name": "Latta Slate Gray Dining Table for 6",
+        "price": 529
+    },
+    {
+        "id": 13,
+        "imgOne": "bestseller/out/front (13).webp",
+        "imgTwo": "bestseller/out/back (13).webp",
+        "name": "Atica Dining Table for 10",
+        "price": 849
+    },
+    {
+        "id": 14,
+        "imgOne": "bestseller/out/front (14).webp",
+        "imgTwo": "bestseller/out/back (14).webp",
+        "name": "Zina Ember Black Counter Stool",
+        "price": 149
+    },
+    {
+        "id": 15,
+        "imgOne": "bestseller/out/front (15).webp",
+        "imgTwo": "bestseller/out/back (15).webp",
+        "name": "Sora Beach Sand Lounge Chair",
+        "price": 549
+    },
+    {
+        "id": 16,
+        "imgOne": "bestseller/out/front (16).webp",
+        "imgTwo": "bestseller/out/back (16).webp",
+        "name": "Halden Dark Charcoal 16' Round Side Table",
+        "price": 159
+    },
+    {
+        "id": 17,
+        "imgOne": "bestseller/out/front (17).webp",
+        "imgTwo": "bestseller/out/back (17).webp",
+        "name": "Ballo Round Dining Table",
+        "price": 599
+    },
+    {
+        "id": 18,
+        "imgOne": "bestseller/out/front (18).webp",
+        "imgTwo": "bestseller/out/back (18).webp",
+        "name": "Lubek Beach Sand Low Loveseat",
+        "price": 849
+    },
+    {
+        "id": 19,
+        "imgOne": "bestseller/out/front (19).webp",
+        "imgTwo": "bestseller/out/back (19).webp",
+        "name": "Ora Slate Gray Sectional",
+        "price": 1799
+    },
+    {
+        "id": 20,
+        "imgOne": "bestseller/out/front (20).webp",
+        "imgTwo": "bestseller/out/back (20).webp",
+        "name": "Halden Dark Charcoal Oval Coffee Table",
+        "price": 399
+    },
+    {
+        "id": 21,
+        "imgOne": "bestseller/out/front (21).webp",
+        "imgTwo": "bestseller/out/back (21).webp",
+        "name": "Sarek Khaki Green Stackable Dining Chair",
+        "price": 149
+    },
+    {
+        "id": 22,
+        "imgOne": "bestseller/out/front (22).webp",
+        "imgTwo": "bestseller/out/back (22).webp",
+        "name": "Ofer Dark Gray Table for 4, Extendable",
+        "price": 669
+    },
+    {
+        "id": 23,
+        "imgOne": "bestseller/out/front (23).webp",
+        "imgTwo": "bestseller/out/back (23).webp",
+        "name": "Lubek Slate Gray Low Right Sectional",
+        "price": 1599
+    },
+    {
+        "id": 24,
+        "imgOne": "bestseller/out/front (24).webp",
+        "imgTwo": "bestseller/out/back (24).webp",
+        "name": "Calova Side Table",
+        "price": 149
+    },
+    {
+        "id": 25,
+        "imgOne": "bestseller/out/front (25).webp",
+        "imgTwo": "bestseller/out/back (25).webp",
+        "name": "Sarek Khaki Green Dining Table for 6",
+        "price": 649
+    },
+    {
+        "id": 26,
+        "imgOne": "bestseller/out/front (26).webp",
+        "imgTwo": "bestseller/out/back (26).webp",
+        "name": "Lubek Slate Gray Low Left Sectional",
+        "price": 1599
+    },
+    {
+        "id": 27,
+        "imgOne": "bestseller/out/front (27).webp",
+        "imgTwo": "bestseller/out/back (27).webp",
+        "name": "Dot Graphite Stackable Dining Chair",
+        "price": 89
+    },
+    {
+        "id": 28,
+        "imgOne": "bestseller/out/front (28).webp",
+        "imgTwo": "bestseller/out/back (28).webp",
+        "name": "Solina White Terrazzo Wheeled Umbrella Base",
+        "price": 109
+    },
+    {
+        "id": 29,
+        "imgOne": "bestseller/out/front (29).webp",
+        "imgTwo": "bestseller/out/back (29).webp",
+        "name": "Zina Ember Black Dining Chair",
+        "price": 179
+    },
+    {
+        "id": 30,
+        "imgOne": "bestseller/out/front (30).webp",
+        "imgTwo": "bestseller/out/back (30).webp",
+        "name": "Ofer Dark Gray Table for 6, Extendable",
+        "price": 1099
+    },
+    {
+        "id": 31,
+        "imgOne": "bestseller/out/front (31).webp",
+        "imgTwo": "bestseller/out/back (31).webp",
+        "name": "Lubek Tuscan Brown Coffee Table",
+        "price": 449
+    },
+    {
+        "id": 32,
+        "imgOne": "bestseller/out/front (32).webp",
+        "imgTwo": "bestseller/out/back (32).webp",
+        "name": "Lubek Slate Gray Low Corner Sectional",
+        "price": 1929
+    },
+    {
+        "id": 33,
+        "imgOne": "bestseller/out/front (33).webp",
+        "imgTwo": "bestseller/out/back (33).webp",
+        "name": "Paima Black Wheeled Umbrella Base",
+        "price": 89
+    },
+    {
+        "id": 34,
+        "imgOne": "bestseller/out/front (34).webp",
+        "imgTwo": "bestseller/out/back (34).webp",
+        "name": "Paima Black Umbrella Base",
+        "price": 79
+    },
+    {
+        "id": 35,
+        "imgOne": "bestseller/out/front (35).webp",
+        "imgTwo": "bestseller/out/back (35).webp",
+        "name": "Urba Beach Sand Sofa",
+        "price": 1299
+    },
+    {
+        "id": 36,
+        "imgOne": "bestseller/out/front (36).webp",
+        "imgTwo": "bestseller/out/back (36).webp",
+        "name": "Urba Beach Sand Lounge Chair",
+        "price": 499
+    },
+    {
+        "id": 37,
+        "imgOne": "bestseller/out/front (37).webp",
+        "imgTwo": "bestseller/out/back (37).webp",
+        "name": "Dalarna Dravite Green Lounge Chair",
+        "price": 299
+    },
+    {
+        "id": 38,
+        "imgOne": "bestseller/out/front (38).webp",
+        "imgTwo": "bestseller/out/back (38).webp",
+        "name": "Latta Beach Sand Dining Table for 10",
+        "price": 579
+    },
+    {
+        "id": 39,
+        "imgOne": "bestseller/out/front (39).webp",
+        "imgTwo": "bestseller/out/back (39).webp",
+        "name": "Vardo Porcelain Orange Side Table",
+        "price": 269
+    },{
+        "id": 40,
+        "imgOne": "bestseller/out/front (40).webp",
+        "imgTwo": "bestseller/out/back (40).webp",
+        "name": "Lubek 69.25' Low Left Chaise Lounge - Slate Gray",
+        "price": 799
+    },
+    {
+        "id": 41,
+        "imgOne": "bestseller/out/front (41).webp",
+        "imgTwo": "bestseller/out/back (41).webp",
+        "name": "Calicut Coast Black Dining Chair",
+        "price": 349
+    },
+    {
+        "id": 42,
+        "imgOne": "bestseller/out/front (42).webp",
+        "imgTwo": "bestseller/out/back (42).webp",
+        "name": "Onya Lily White Lounge Chair",
+        "price": 329
+    },
+    {
+        "id": 43,
+        "imgOne": "bestseller/out/front (43).webp",
+        "imgTwo": "bestseller/out/back (43).webp",
+        "name": "Sarek Khaki Green Dining Table for 4",
+        "price": 399
+    },
+    {
+        "id": 44,
+        "imgOne": "bestseller/out/front (44).webp",
+        "imgTwo": "bestseller/out/back (44).webp",
+        "name": "Sarek Black Stackable Dining Armchair",
+        "price": 179
+    },
+    {
+        "id": 45,
+        "imgOne": "bestseller/out/front (45).webp",
+        "imgTwo": "bestseller/out/back (45).webp",
+        "name": "Callais Taupe Gray Sofa",
+        "price": 1129
+    },
+    {
+        "id": 46,
+        "imgOne": "bestseller/out/front (46).webp",
+        "imgTwo": "bestseller/out/back (46).webp",
+        "name": "Aeri Slate Gray Lounge Chair",
+        "price": 429
+    },
+    {
+        "id": 47,
+        "imgOne": "bestseller/out/front (47).webp",
+        "imgTwo": "bestseller/out/back (47).webp",
+        "name": "Solina Gray Terrazzo Stool",
+        "price": 229
+    },
+    {
+        "id": 48,
+        "imgOne": "bestseller/out/front (48).webp",
+        "imgTwo": "bestseller/out/back (48).webp",
+        "name": "Lubek Slate Gray Low Corner Sectional Set",
+        "price": 2474
+    }
+]

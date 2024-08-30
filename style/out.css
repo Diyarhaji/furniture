@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+.thealldiv{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: .5rem;
+    width: 98%;
+    height: 100%;
+    margin: 1rem 1rem;
+}
+.theImageDiv img{
+    object-fit: cover;
+    width: 98%;
+    height: 100%;
+}
+
+.allbundle{
+    border-top: 4px #F2F2F2 solid;
+}
+
+.theImageDiv{
+    text-align: center;
+    height: 70%;
+}
+
+
+
+.dinningbund p:nth-child(2),
+.bundtext p:nth-child(2){
+    color: crimson;
+}
+.hometext{
+    font-size: 1.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: -2rem;
+}
+.Bundles h2{
+    font-size: 1.8rem;
+    margin-top: 3rem;
+    font-weight: 450;
+}
+.theOld{
+    color: #868EB3;
+    font-size: 1.3rem;
+    padding-right: .7rem;
+    text-decoration:line-through;
+}
+
+@media screen and (min-width: 320px) and (max-width: 430px){
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: content-box;
+    }
+   
+    .thealldiv{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: .5rem;
+        width: 98%;
+        height: 100%;
+        margin: .5rem 1rem;
+    }
+    .theImageDiv img{
+        object-fit: cover;
+        width: 98%;
+        height: 100%;
+    }
+    .theImageDiv{
+        margin-bottom: -9rem;
+        width: 98%;
+    }
+    .thefucking{
+        margin-bottom: 7rem;
+        width: 98%;
+    }
+    
+    .allbundle{
+        border-top: 4px #F2F2F2 solid;
+    }
+    
+    .theImageDiv{
+        text-align: center;
+        height: 70%;
+    }
+    
+    
+    .dinningbund p{
+        font-size: 1.7rem;
+    }
+    .dinningbund p:nth-child(2),
+    .bundtext p:nth-child(2){
+        color: crimson;
+    }
+    .hometext{
+        font-size: 1.7rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin-left: -2rem;
+    }
+    .Bundles h2{
+        font-size: 1.8rem;
+        margin-top: 3rem;
+        font-weight: 450;
+    }
+    .theOld{
+        color: #868EB3;
+        font-size: 1.3rem;
+        padding-right: .7rem;
+        text-decoration:line-through;
+    }
+}

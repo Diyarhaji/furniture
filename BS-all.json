@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "imgOne": "bestseller/all/front (1).webp",
+        "imgTwo": "bestseller/all/back (1).webp",
+        "name": "Cilo 16' Ottoman - Ivory Bouclé",
+        "price": 149
+    },
+    {
+        "id": 2,
+        "imgOne": "bestseller/all/front (2).webp",
+        "imgTwo": "bestseller/all/back (2).webp",
+        "name": "Mod 35' Lounge Chair - Blue Berry",
+        "price": 499
+    },
+    {
+        "id": 3,
+        "imgOne": "bestseller/all/front (3).webp",
+        "imgTwo": "bestseller/all/back (3).webp",
+        "name": "Jokuna Walnut Media Unit",
+        "price": 799
+    },
+    {
+        "id": 4,
+        "imgOne": "bestseller/all/front (4).webp",
+        "imgTwo": "bestseller/all/back (4).webp",
+        "name": "Zina Ember Black Dining Chair",
+        "price": 179
+    },
+    {
+        "id": 5,
+        "imgOne": "bestseller/all/front (5).webp",
+        "imgTwo": "bestseller/all/back (5).webp",
+        "name": "Nera Walnut 1-Drawer Nightstand",
+        "price":349
+    },
+    {
+        "id": 6,
+        "imgOne": "bestseller/all/front (6).webp",
+        "imgTwo": "bestseller/all/back (6).webp",
+        "name": "Vena Walnut Rectangular Coffee Table",
+        "price": 329
+    },
+    {
+        "id": 7,
+        "imgOne": "bestseller/all/front (7).webp",
+        "imgTwo": "bestseller/all/back (7).webp",
+        "name": "Sven 88' Tufted Leather Sofa - Charme Green",
+        "price": 1699
+    },
+    {
+        "id": 8,
+        "imgOne": "bestseller/all/front (8).webp",
+        "imgTwo": "bestseller/all/back (8).webp",
+        "name": "Kirun Walnut Console",
+        "price": 299
+    },
+    {
+        "id": 9,
+        "imgOne": "bestseller/all/front (9).webp",
+        "imgTwo": "bestseller/all/back (9).webp",
+        "name": "Ofer Dark Gray Table for 6, Extendable",
+        "price": 1099
+    },
+    {
+        "id": 10,
+        "imgOne": "bestseller/all/front (10).webp",
+        "imgTwo": "bestseller/all/back (10).webp",
+        "name": "Plumas White Oak Dining Table for 6, Extendable",
+        "price": 999
+    },
+    {
+        "id": 11,
+        "imgOne": "bestseller/all/front (11).webp",
+        "imgTwo": "bestseller/all/back (11).webp",
+        "name": "Lenia Panel Walnut King Bed",
+        "price": 1199
+    },
+    {
+        "id": 12,
+        "imgOne": "bestseller/all/front (12).webp",
+        "imgTwo": "bestseller/all/back (12).webp",
+        "name": "Lenia White Oak 4-Drawer Chest",
+        "price": 899
+    },
+    {
+        "id": 13,
+        "imgOne": "bestseller/all/front (13).webp",
+        "imgTwo": "bestseller/all/back (13).webp",
+        "name": "Clarus Walnut Coffee Table",
+        "price": 199
+    },
+    {
+        "id": 14,
+        "imgOne": "bestseller/all/front (14).webp",
+        "imgTwo": "bestseller/all/back (14).webp",
+        "name": "Gabriola 64' Loveseat - Sandstone Wool Bouclé",
+        "price": 549
+    },
+    {
+        "id": 15,
+        "imgOne": "bestseller/all/front (15).webp",
+        "imgTwo": "bestseller/all/back (15).webp",
+        "name": "Solina White Terrazzo Stool",
+        "price": 219
+    },
+    {
+        "id": 16,
+        "imgOne": "bestseller/all/front (16).webp",
+        "imgTwo": "bestseller/all/back (16).webp",
+        "name": "Seno Oak 47' Round Dining Table",
+        "price":599 
+    },
+    {
+        "id": 17,
+        "imgOne": "bestseller/all/front (17).webp",
+        "imgTwo": "bestseller/all/back (17).webp",
+        "name": "Portima Walnut C Side Table",
+        "price": 199
+    },
+    {
+        "id": 18,
+        "imgOne": "bestseller/all/front (18).webp",
+        "imgTwo": "bestseller/all/back (18).webp",
+        "name": "Lenia Panel Walnut Queen Bed",
+        "price": 99
+    },
+    {
+        "id": 19,
+        "imgOne": "bestseller/all/front (19).webp",
+        "imgTwo": "bestseller/all/back (19).webp",
+        "name": "Conan Walnut Round Dining Table",
+        "price": 599
+    },
+    {
+        "id": 20,
+        "imgOne": "bestseller/all/front (20).webp",
+        "imgTwo": "bestseller/all/back (20).webp",
+        "name": "Perforate Brass Table Lamp",
+        "price": 79
+    },
+    {
+        "id": 21,
+        "imgOne": "bestseller/all/front (21).webp",
+        "imgTwo": "bestseller/all/back (21).webp",
+        "name": "Basi Oak King Bed Frame",
+        "price": 499
+    },
+    {
+        "id": 22,
+        "imgOne": "bestseller/all/front (22).webp",
+        "imgTwo": "bestseller/all/back (22).webp",
+        "name": "Seno Walnut Dining Table for 6",
+        "price": 799
+    },
+    {
+        "id": 23,
+        "imgOne": "bestseller/all/front (23).webp",
+        "imgTwo": "bestseller/all/back (23).webp",
+        "name": "Aeri Slate Gray Lounge Chair",
+        "price": 429
+    },
+    {
+        "id": 24,
+        "imgOne": "bestseller/all/front (24).webp",
+        "imgTwo": "bestseller/all/back (24).webp",
+        "name": "Leesa Studio Queen Mattress",
+        "price": 559
+    },
+    {
+        "id": 25,
+        "imgOne": "bestseller/all/front (25).webp",
+        "imgTwo": "bestseller/all/back (25).webp",
+        "name": "Fantol Warm Oak Narrow Bookcase",
+        "price": 449
+    },
+    {
+        "id": 26,
+        "imgOne": "bestseller/all/front (26).webp",
+        "imgTwo": "bestseller/all/back (26).webp",
+        "name": "Abisko 91' Sofa - Quartz White",
+        "price": 1199
+    },
+    {
+        "id": 27,
+        "imgOne": "bestseller/all/front (27).webp",
+        "imgTwo": "bestseller/all/back (27).webp",
+        "name": "Rus Black Dining Chair",
+        "price": 169
+    },
+    {
+        "id": 28,
+        "imgOne": "bestseller/all/front (28).webp",
+        "imgTwo": "bestseller/all/back (28).webp",
+        "name": "Madera Oak Dining Table, Extendable",
+        "price": 1499
+    },
+    {
+        "id": 29,
+        "imgOne": "bestseller/all/front (29).webp",
+        "imgTwo": "bestseller/all/back (29).webp",
+        "name": "Nera Walnut King Bed with Nightstands",
+        "price": 1699
+    },
+    {
+        "id": 30,
+        "imgOne": "bestseller/all/front (30).webp",
+        "imgTwo": "bestseller/all/back (30).webp",
+        "name": "Mara Walnut Coffee Table",
+        "price": 279
+    },
+    {
+        "id": 31,
+        "imgOne": "bestseller/all/front (31).webp",
+        "imgTwo": "bestseller/all/back (31).webp",
+        "name": "Gabriola Catalina Blue Bouclé Pillow Set",
+        "price": 79
+    },
+    {
+        "id": 32,
+        "imgOne": "bestseller/all/front (32).webp",
+        "imgTwo": "bestseller/all/back (32).webp",
+        "name": "Leap Black Floor Lamp",
+        "price": 99
+    },
+    {
+        "id": 33,
+        "imgOne": "bestseller/all/front (33).webp",
+        "imgTwo": "bestseller/all/back (33).webp",
+        "name": "Lenia Walnut 9-Drawer Dresser",
+        "price": 1699
+    },
+    {
+        "id": 34,
+        "imgOne": "bestseller/all/front (34).webp",
+        "imgTwo": "bestseller/all/back (34).webp",
+        "name": "Amoeba Wild Walnut Side Table",
+        "price": 149
+    },
+    {
+        "id": 35,
+        "imgOne": "bestseller/all/front (35).webp",
+        "imgTwo": "bestseller/all/back (35).webp",
+        "name": "Svelti Aloe Green Dining Chair",
+        "price": 69
+    },
+    {
+        "id": 36,
+        "imgOne": "bestseller/all/front (36).webp",
+        "imgTwo": "bestseller/all/back (36).webp",
+        "name": "Conan Walnut Oval Dining Table",
+        "price": 699
+    },
+    {
+        "id": 37,
+        "imgOne": "bestseller/all/front (37).webp",
+        "imgTwo": "bestseller/all/back (37).webp",
+        "name": "Sarek Khaki Green Stackable Dining Chair",
+        "price": 149
+    },
+    {
+        "id": 38,
+        "imgOne": "bestseller/all/front (38).webp",
+        "imgTwo": "bestseller/all/back (38).webp",
+        "name": "Nera Walnut 6-Drawer Double Dresser",
+        "price": 1499
+    },
+    {
+        "id": 39,
+        "imgOne": "bestseller/all/front (39).webp",
+        "imgTwo": "bestseller/all/back (39).webp",
+        "name": "Lenia Walnut 2-Drawer Nightstand",
+        "price": 449
+    },
+    {
+        "id": 40,
+        "imgOne": "bestseller/all/front (40).webp",
+        "imgTwo": "bestseller/all/back (40).webp",
+        "name": "Timber 90' Leather Sofa - Charme Tan",
+        "price": 1799
+    },
+    {
+        "id": 41,
+        "imgOne": "bestseller/all/front (41).webp",
+        "imgTwo": "bestseller/all/back (41).webp",
+        "name": "Lenia White Oak 6-Drawer Double Dresser",
+        "price": 1299
+    },
+    {
+        "id": 42,
+        "imgOne": "bestseller/all/front (42).webp",
+        "imgTwo": "bestseller/all/back (42).webp",
+        "name": "Seno Walnut Dining Table, Extendable",
+        "price": 959
+    },
+    {
+        "id": 43,
+        "imgOne": "bestseller/all/front (43).webp",
+        "imgTwo": "bestseller/all/back (43).webp",
+        "name": "Basi Oak Queen Bed Frame",
+        "price": 399
+    },
+    {
+        "id": 44,
+        "imgOne": "bestseller/all/front (44).webp",
+        "imgTwo": "bestseller/all/back (44).webp",
+        "name": "Gabriola 34' Lounge Chair - Ivory Bouclé",
+        "price": 499
+    },
+    {
+        "id": 45,
+        "imgOne": "bestseller/all/front (45).webp",
+        "imgTwo": "bestseller/all/back (45).webp",
+        "name": "Timber 90' Sofa - Olio Green",
+        "price": 1299
+    },
+    {
+        "id": 46,
+        "imgOne": "bestseller/all/front (46).webp",
+        "imgTwo": "bestseller/all/back (46).webp",
+        "name": "Nosh Hemlock Green Walnut Dining Chair",
+        "price": 149
+    },
+    {
+        "id": 47,
+        "imgOne": "bestseller/all/front (47).webp",
+        "imgTwo": "bestseller/all/back (47).webp",
+        "name": "Lubek Slate Gray Low Corner Sectional Set",
+        "price": 2474
+    },
+    {
+        "id": 48,
+        "imgOne": "bestseller/all/front (48).webp",
+        "imgTwo": "bestseller/all/back (48).webp",
+        "name": "Tessu Glaze Gray King Bed",
+        "price": 899
+    }
+]

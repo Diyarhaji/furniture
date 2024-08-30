@@ -1,0 +1,337 @@
+[
+    { 
+        "id": 1, 
+        "imgOne": "bestseller/live/front (1).webp",
+        "imgTwo": "bestseller/live/back (1).webp",
+        "name": "Mysen Walnut Bookcase",
+        "price": 799
+    },
+    { 
+        "id": 2, 
+        "imgOne": "bestseller/live/front (2).webp",
+        "imgTwo": "bestseller/live/back (2).webp",
+        "name": "Nordby 104' Reversible Sleep Sectional - Henge Gray",
+        "price": 2299
+    },
+    {
+        "id": 3,
+        "imgOne": "bestseller/live/front (3).webp",
+        "imgTwo": "bestseller/live/back (3).webp",
+        "name": "Candra Oak Media Unit",
+        "price": 799
+    },
+    {
+        "id": 4,
+        "imgOne": "bestseller/live/front (4).webp",
+        "imgTwo": "bestseller/live/back (4).webp",
+        "name": "Anton 82' Sofa - Twilight Blue",
+        "price": 1099
+    },
+    {
+        "id": 5,
+        "imgOne": "bestseller/live/front (5).webp",
+        "imgTwo": "bestseller/live/back (5).webp",
+        "name": "Lento 25'Leather Lounge Chair - Teres Tan",
+        "price": 449
+    },
+    {
+        "id": 6,
+        "imgOne": "bestseller/live/front (6).webp",
+        "imgTwo": "bestseller/live/back (6).webp",
+        "name": "Maribo 48' Leather Storage Ottoman - Rawhide Tan",
+        "price": 549
+    },
+    {
+        "id": 7,
+        "imgOne": "bestseller/live/front (7).webp",
+        "imgTwo": "bestseller/live/back (7).webp",
+        "name": "Cigar 47' Leather Ottoman - Rawhide Tan",
+        "price": 899
+    },
+    {
+        "id": 8,
+        "imgOne": "bestseller/live/front (8).webp",
+        "imgTwo": "bestseller/live/back (8).webp",
+        "name": "Maribo 32' Leather Storage Ottoman - Rawhide Tan",
+        "price": 399
+    },
+    {
+        "id": 9,
+        "imgOne": "bestseller/live/front (9).webp",
+        "imgTwo": "bestseller/live/back (9).webp",
+        "name": "Braam 75' Sofa Bed - Vintage White",
+        "price": 1299
+    },
+    {
+        "id": 10,
+        "imgOne": "bestseller/live/front (10).webp",
+        "imgTwo": "bestseller/live/back (10).webp",
+        "name": "Soma 82' Sofa Bed - Midnight Blue",
+        "price": 1699
+    },
+    {
+        "id": 11,
+        "imgOne": "bestseller/live/front (11).webp",
+        "imgTwo": "bestseller/live/back (11).webp",
+        "name": "Ceni 83' Sofa - Hemlock Green",
+        "price": 999
+    },
+    {
+        "id": 12,
+        "imgOne": "bestseller/live/front (12).webp",
+        "imgTwo": "bestseller/live/back (12).webp",
+        "name": "Maribo 19' Storage Ottoman - Ivory Bouclé",
+        "price": 199
+    },
+    {
+        "id": 13,
+        "imgOne": "bestseller/live/front (13).webp",
+        "imgTwo": "bestseller/live/back (13).webp",
+        "name": "Torme White Oak Media Unit",
+        "price": 1199
+    },
+    {
+        "id": 14,
+        "imgOne": "bestseller/live/front (14).webp",
+        "imgTwo": "bestseller/live/back (14).webp",
+        "name": "Bavel 28.5' Leather Lounge Chair - Charme Green",
+        "price": 999
+    },
+    {
+        "id": 15,
+        "imgOne": "bestseller/live/front (15).webp",
+        "imgTwo": "bestseller/live/back (15).webp",
+        "name": "Cigar 92' Leather Sofa - Rawhide Brown",
+        "price": 2299
+    },
+    {
+        "id": 16,
+        "imgOne": "bestseller/live/front (16).webp",
+        "imgTwo": "bestseller/live/back (16).webp",
+        "name": "Maribo 32' Storage Ottoman - Ivory Bouclén",
+        "price": 299
+    },
+    {
+        "id": 17,
+        "imgOne": "bestseller/live/front (17).webp",
+        "imgTwo": "bestseller/live/back (17).webp",
+        "name": "Timber 41' Lounge Chair - Rain Cloud Gray",
+        "price": 699
+    },
+    {
+        "id": 18,
+        "imgOne": "bestseller/live/front (18).webp",
+        "imgTwo": "bestseller/live/back (18).webp",
+        "name": "Burrard 83.5' Sofa - Seasalt Gray",
+        "price": 1299
+    },
+    {
+        "id": 19,
+        "imgOne": "bestseller/live/front (19).webp",
+        "imgTwo": "bestseller/live/back (19).webp",
+        "name": "Nera Walnut 63' Media Unit",
+        "price": 899
+    },
+    {
+        "id": 20,
+        "imgOne": "bestseller/live/front (20).webp",
+        "imgTwo": "bestseller/live/back (20).webp",
+        "name": "Timber 41' Leather Lounge Chair - Charme Tan",
+        "price": 1099
+    },
+    {
+        "id": 21,
+        "imgOne": "bestseller/live/front (21).webp",
+        "imgTwo": "bestseller/live/back (21).webp",
+        "name": "Kayra 87' Bouclé Sofa - Ivory",
+        "price": 1299
+    },
+    {
+        "id": 22,
+        "imgOne": "bestseller/live/front (22).webp",
+        "imgTwo": "bestseller/live/back (22).webp",
+        "name": "Turoy 32.5' Swivel Lounge Chair - Ivory Bouclé",
+        "price": 699
+    },
+    {
+        "id": 23,
+        "imgOne": "bestseller/live/front (23).webp",
+        "imgTwo": "bestseller/live/back (23).webp",
+        "name": "Fortra Coffee Table",
+        "price": 799
+    },
+    {
+        "id": 24,
+        "imgOne": "bestseller/live/front (24).webp",
+        "imgTwo": "bestseller/live/back (24).webp",
+        "name": "Timber 93' Corner Sectional - Olio Green",
+        "price": 2399
+    },
+    {
+        "id": 25,
+        "imgOne": "bestseller/live/front (25).webp",
+        "imgTwo": "bestseller/live/back (25).webp",
+        "name": "Fantol Warm Oak Narrow Bookcase",
+        "price": 499
+    },
+    {
+        "id": 26,
+        "imgOne": "bestseller/live/front (26).webp",
+        "imgTwo": "bestseller/live/back (26).webp",
+        "name": "Abisko 91' Sofa - Welsh Gray",
+        "price": 899
+    },
+    {
+        "id": 27,
+        "imgOne": "bestseller/live/front (27).webp",
+        "imgTwo": "bestseller/live/back (27).webp",
+        "name": "Fantol Warm Oak Wide Bookcase",
+        "price": 699
+    },
+    {
+        "id": 28,
+        "imgOne": "bestseller/live/front (28).webp",
+        "imgTwo": "bestseller/live/back (28).webp",
+        "name": "Maribo 48' Storage Ottoman - Ivory Bouclé",
+        "price": 399
+    },
+    {
+        "id": 29,
+        "imgOne": "bestseller/live/front (29).webp",
+        "imgTwo": "bestseller/live/back (29).webp",
+        "name": "Baarlo Oak Coffee Table",
+        "price": 699
+    },
+    {
+        "id": 30,
+        "imgOne": "bestseller/live/front (30).webp",
+        "imgTwo": "bestseller/live/back (30).webp",
+        "name": "Mara Walnut Coffee Table",
+        "price": 279
+    },
+    {
+        "id": 31,
+        "imgOne": "bestseller/live/front (31).webp",
+        "imgTwo": "bestseller/live/back (31).webp",
+        "name": "Sven 88' Tufted Velvet Sofa - Grass Green",
+        "price": 1049
+    },
+    {
+        "id": 32,
+        "imgOne": "bestseller/live/front (32).webp",
+        "imgTwo": "bestseller/live/back (32).webp",
+        "name": "Otio 26' Leather Lounge Chair - Black and Walnut",
+        "price": 899
+    },
+    {
+        "id": 33,
+        "imgOne": "bestseller/live/front (33).webp",
+        "imgTwo": "bestseller/live/back (33).webp",
+        "name": "Sven 72' Tufted Leather Loveseat - Charme Tan",
+        "price": 1599
+    },
+    {
+        "id": 34,
+        "imgOne": "bestseller/live/front (34).webp",
+        "imgTwo": "bestseller/live/back (34).webp",
+        "name": "Amoeba Wild Walnut Side Table",
+        "price": 149
+    },
+    {
+        "id": 35,
+        "imgOne": "bestseller/live/front (35).webp",
+        "imgTwo": "bestseller/live/back (35).webp",
+        "name": "Timpani 41' Leather Ottoman - Charme Tan",
+        "price": 629
+    },
+    {
+        "id": 36,
+        "imgOne": "bestseller/live/front (36).webp",
+        "imgTwo": "bestseller/live/back (36).webp",
+        "name": "Gabriola 23' Ottoman - Ivory Bouclé",
+        "price": 199
+    },
+    {
+        "id": 37,
+        "imgOne": "bestseller/live/front (37).webp",
+        "imgTwo": "bestseller/live/back (37).webp",
+        "name": "Lenia Walnut Oval Coffee Table",
+        "price": 399
+    },
+    {
+        "id": 38,
+        "imgOne": "bestseller/live/front (38).webp",
+        "imgTwo": "bestseller/live/back (38).webp",
+        "name": "Cilo 16' Ottoman - Ivory Bouclé",
+        "price": 149
+    },
+    {
+        "id": 39,
+        "imgOne": "bestseller/live/front (39).webp",
+        "imgTwo": "bestseller/live/back (39).webp",
+        "name": "Mod 35' Lounge Chair - Blue Berry",
+        "price": 499
+    },{
+        "id": 40,
+        "imgOne": "bestseller/live/front (40).webp",
+        "imgTwo": "bestseller/live/back (40).webp",
+        "name": "Timber 90' Leather Sofa - Charme Tan",
+        "price": 1799
+    },
+    {
+        "id": 41,
+        "imgOne": "bestseller/live/front (41).webp",
+        "imgTwo": "bestseller/live/back (41).webp",
+        "name": "Jokuna Walnut Media Unit",
+        "price": 799
+    },
+    {
+        "id": 42,
+        "imgOne": "bestseller/live/front (42).webp",
+        "imgTwo": "bestseller/live/back (42).webp",
+        "name": "Vena Walnut Rectangular Coffee Table",
+        "price": 329
+    },
+    {
+        "id": 43,
+        "imgOne": "bestseller/live/front (43).webp",
+        "imgTwo": "bestseller/live/back (43).webp",
+        "name": "Sven 88' Tufted Leather Sofa - Charme Tan",
+        "price": 1699
+    },
+    {
+        "id": 44,
+        "imgOne": "bestseller/live/front (44).webp",
+        "imgTwo": "bestseller/live/back (44).webp",
+        "name": "Gabriola 34' Lounge Chair - Ivory Bouclé",
+        "price": 499
+    },
+    {
+        "id": 45,
+        "imgOne": "bestseller/live/front (45).webp",
+        "imgTwo": "bestseller/live/back (45).webp",
+        "name": "Timber 90' Sofa - Olio Green",
+        "price": 1299
+    },
+    {
+        "id": 46,
+        "imgOne": "bestseller/live/front (46).webp",
+        "imgTwo": "bestseller/live/back (46).webp",
+        "name": "Clarus Walnut Coffee Table",
+        "price": 199
+    },
+    {
+        "id": 47,
+        "imgOne": "bestseller/live/front (47).webp",
+        "imgTwo": "bestseller/live/back (47).webp",
+        "name": "Gabriola 64' Loveseat - Ivory Bouclé",
+        "price": 699
+    },
+    {
+        "id": 48,
+        "imgOne": "bestseller/live/front (48).webp",
+        "imgTwo": "bestseller/live/back (48).webp",
+        "name": "Portima Oak C Side Table",
+        "price": 199
+    }
+]

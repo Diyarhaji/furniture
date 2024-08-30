@@ -1,0 +1,261 @@
+[
+    {  
+        "id": 1,
+        "imgOne": "bestseller/dining/font (1).webp",
+        "imgTwo": "bestseller/dining/back (1).webp",
+        "name": "Rosin Welsh Green Armless Banquette",
+        "price": 549
+    },
+    {  
+        "id": 2,
+        "imgOne": "bestseller/dining/font (2).webp",
+        "imgTwo": "bestseller/dining/back (2).webp",
+        "name": "Rosin Welsh Green Corner Banquette",
+        "price": 699
+    },
+    {
+        "id": 3,
+        "imgOne": "bestseller/dining/font (3).webp",
+        "imgTwo": "bestseller/dining/back (3).webp",
+        "name": "Dako Warm Oak Cabinet",
+        "price": 1499
+    },
+    {
+        "id": 4,
+        "imgOne": "bestseller/dining/font (4).webp",
+        "imgTwo": "bestseller/dining/back (4).webp",
+        "name": "Dako Warm Oak Sideboard",
+        "price": 1249
+    },
+    {
+        "id": 5,
+        "imgOne": "bestseller/dining/font (5).webp",
+        "imgTwo": "bestseller/dining/back (5).webp",
+        "name": "Dako Warm Oak Dining Table for 6",
+        "price": 1199
+    },
+    {
+        "id": 6,
+        "imgOne": "bestseller/dining/font (6).webp",
+        "imgTwo": "bestseller/dining/back (6).webp",
+        "name": "Level Bella Black 61' Bench",
+        "price": 599
+    },
+    {
+        "id": 7,
+        "imgOne": "bestseller/dining/font (7).webp",
+        "imgTwo": "bestseller/dining/back (7).webp",
+        "name": "Plumas White Oak Dining Table for 6",
+        "price": 899
+    },
+    {
+        "id": 8,
+        "imgOne": "bestseller/dining/font (8).webp",
+        "imgTwo": "bestseller/dining/back (8).webp",
+        "name": "Nera Walnut Cabinet",
+        "price": 899
+    },
+    {
+        "id": 9,
+        "imgOne": "bestseller/dining/font (9).webp",
+        "imgTwo": "bestseller/dining/back (9).webp",
+        "name": "Zola Black Leather Dining Chair",
+        "price": 249
+    },
+    {
+        "id": 10,
+        "imgOne": "bestseller/dining/font (10).webp",
+        "imgTwo": "bestseller/dining/back (10).webp",
+        "name": "Chantel Volcanic Gray 56' Bench",
+        "price": 299
+    },
+    {
+        "id": 11,
+        "imgOne": "bestseller/dining/font (11).webp",
+        "imgTwo": "bestseller/dining/back (11).webp",
+        "name": "Seno Walnut Dining Table for 8",
+        "price": 899
+    },
+    {
+        "id": 12,
+        "imgOne": "bestseller/dining/font (12).webp",
+        "imgTwo": "bestseller/dining/back (12).webp",
+        "name": "Sede Toscana Tan Walnut Dining Chair",
+        "price": 299
+    },
+    {
+        "id": 13,
+        "imgOne": "bestseller/dining/font (13).webp",
+        "imgTwo": "bestseller/dining/back (13).webp",
+        "name": "Alta Camellia Ivory Oak Dining Chair",
+        "price": 199
+    },
+    {
+        "id": 14,
+        "imgOne": "bestseller/dining/font (14).webp",
+        "imgTwo": "bestseller/dining/back (14).webp",
+        "name": "Chantel Toscana Tan 56' Bench",
+        "price": 359
+    },
+    {
+        "id": 15,
+        "imgOne": "bestseller/dining/font (15).webp",
+        "imgTwo": "bestseller/dining/back (15).webp",
+        "name": "Madera Oak Dining Table for 6",
+        "price": 999
+    },
+    {
+        "id": 16,
+        "imgOne": "bestseller/dining/font (16).webp",
+        "imgTwo": "bestseller/dining/back (16).webp",
+        "name": "Rus Black Dining Chair",
+        "price": 169
+    },
+    {
+        "id": 17,
+        "imgOne": "bestseller/dining/font (17).webp",
+        "imgTwo": "bestseller/dining/back (17).webp",
+        "name": "Madera Oak Dining Table, Extendable",
+        "price": 1499
+    },
+    {
+        "id": 18,
+        "imgOne": "bestseller/dining/font (18).webp",
+        "imgTwo": "bestseller/dining/back (18).webp",
+        "name": "Lenia Walnut Cabinet",
+        "price": 699
+    },
+    {
+        "id": 19,
+        "imgOne": "bestseller/dining/font (19).webp",
+        "imgTwo": "bestseller/dining/back (19).webp",
+        "name": "Nosh Chalk Gray Walnut Bench",
+        "price": 399
+    },
+    {
+        "id": 20,
+        "imgOne": "bestseller/dining/font (20).webp",
+        "imgTwo": "bestseller/dining/back (20).webp",
+        "name": "Seno Walnut 48' Sideboard",
+        "price": 899
+    },
+    {
+        "id": 21,
+        "imgOne": "bestseller/dining/font (21).webp",
+        "imgTwo": "bestseller/dining/back (21).webp",
+        "name": "Zola Volcanic Gray Dining Chair",
+        "price": 199
+    },
+    {
+        "id": 22,
+        "imgOne": "bestseller/dining/font (22).webp",
+        "imgTwo": "bestseller/dining/back (22).webp",
+        "name": "Rus Norfolk Green Counter Stool",
+        "price": 249
+    },
+    {
+        "id": 23,
+        "imgOne": "bestseller/dining/font (23).webp",
+        "imgTwo": "bestseller/dining/back (23).webp",
+        "name": "Plumas White Oak Dining Table for 10, Extendable",
+        "price": 1299
+    },
+    {
+        "id": 24,
+        "imgOne": "bestseller/dining/font (24).webp",
+        "imgTwo": "bestseller/dining/back (24).webp",
+        "name": "Svelti Aloe Green Dining Chair",
+        "price": 69
+    },
+    {
+        "id": 25,
+        "imgOne": "bestseller/dining/font (25).webp",
+        "imgTwo": "bestseller/dining/back (25).webp",
+        "name": "Conan Walnut Oval Dining Table",
+        "price": 699
+    },
+    {
+        "id": 26,
+        "imgOne": "bestseller/dining/font (26).webp",
+        "imgTwo": "bestseller/dining/back (26).webp",
+        "name": "Esse Light Oak Counter Stool",
+        "price": 249
+    },
+    {
+        "id": 27,
+        "imgOne": "bestseller/dining/font (27).webp",
+        "imgTwo": "bestseller/dining/back (27).webp",
+        "name": "Lenia Walnut Sideboard",
+        "price": 1299
+    },
+    {
+        "id": 28,
+        "imgOne": "bestseller/dining/font (28).webp",
+        "imgTwo": "bestseller/dining/back (28).webp",
+        "name": "Gusfa Black Stackable Dining Chair",
+        "price": 199
+    },
+    {
+        "id": 29,
+        "imgOne": "bestseller/dining/font (29).webp",
+        "imgTwo": "bestseller/dining/back (29).webp",
+        "name": "Seno Walnut 71' Sideboard",
+        "price": 1199
+    },
+    {
+        "id": 30,
+        "imgOne": "bestseller/dining/font (30).webp",
+        "imgTwo": "bestseller/dining/back (30).webp",
+        "name": "Seno Walnut 55' Bench",
+        "price": 399
+    },
+    {
+        "id": 31,
+        "imgOne": "bestseller/dining/font (31).webp",
+        "imgTwo": "bestseller/dining/back (31).webp",
+        "name": "Seno Oak Dining Table, Extendable",
+        "price": 1199
+    },
+    {
+        "id": 32,
+        "imgOne": "bestseller/dining/font (32).webp",
+        "imgTwo": "bestseller/dining/back (32).webp",
+        "name": "Sede Black Leather Walnut Counter Stool",
+        "price": 299
+    },
+    {
+        "id": 33,
+        "imgOne": "bestseller/dining/font (33).webp",
+        "imgTwo": "bestseller/dining/back (33).webp",
+        "name": "Plumas White Oak Dining Table for 6, Extendable",
+        "price": 999
+    },
+    {
+        "id": 34,
+        "imgOne": "bestseller/dining/font (34).webp",
+        "imgTwo": "bestseller/dining/back (34).webp",
+        "name": "Seno Oak 47' Round Dining Table",
+        "price": 599
+    },
+    {
+        "id": 35,
+        "imgOne": "bestseller/dining/font (35).webp",
+        "imgTwo": "bestseller/dining/back (35).webp",
+        "name": "Nosh Hemlock Green Walnut Dining Chair",
+        "price": 149
+    },
+    {
+        "id": 36,
+        "imgOne": "bestseller/dining/font (36).webp",
+        "imgTwo": "bestseller/dining/back (36).webp",
+        "name": "Conan Oak Round Dining Table",
+        "price": 599
+    },
+    {
+        "id": 37,
+        "imgOne": "bestseller/dining/font (37).webp",
+        "imgTwo": "bestseller/dining/back (37).webp",
+        "name": "Seno Walnut Dining Table for 6",
+        "price": 799
+    }
+]

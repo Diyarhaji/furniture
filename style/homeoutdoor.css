@@ -1,0 +1,25 @@
+ 
+    .newout img {
+        height: 100%;
+        width: 100%;
+    }
+    .newout{
+        text-align: center;
+        height: 40vh;
+    }
+   
+    @media screen and (min-width: 320px) and (max-width: 430px){
+        .bunddining img{
+            height: 50vh;
+        }
+        .bunddining p{
+            margin-top: -5rem;
+        }
+        .bunddining p:nth-child(2){
+            margin-top: 1rem;
+        }
+    } 
+    
+    .cateout img{
+        height: 50vh;
+    }

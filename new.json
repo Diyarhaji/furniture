@@ -1,0 +1,331 @@
+[
+    {
+        "id": 2,
+        "imgOne": "new/front (2).webp",
+        "imgTwo": "new/back (2).webp",
+        "name": "Sanders 85.5' Bouclé Reversible Sectional - Ivory",
+        "price": 1499
+    },
+    {          
+        "id": 3,
+        "imgOne": "new/front (3).webp",
+        "imgTwo": "new/back (3).webp",
+        "name": "Sven 72' Tufted Loveseat - Biscuit Cream",
+        "price": 1099
+    },
+    {
+        "id": 4,
+        "imgOne": "new/front (4).webp",
+        "imgTwo": "new/back (4).webp",
+        "name": "Timber 41' Leather Lounge Chair - Charme Green",
+        "price": 1099
+    },
+    {
+        "id": 5,
+        "imgOne": "new/front (5).webp",
+        "imgTwo": "new/back (5).webp",
+        "name": "Gabriola Sandstone Wool Bouclé Small Pillow",
+        "price": 29
+    },
+    {
+        "id": 6,
+        "imgOne": "new/front (6).webp",
+        "imgTwo": "new/back (6).webp",
+        "name": "Sharlo Basket Set",
+        "price": 99
+    },
+    {
+        "id": 7,
+        "imgOne": "new/front (7).webp",
+        "imgTwo": "new/back (7).webp",
+        "name": "Gemma Rice Pendant Lamp",
+        "price": 199
+    },
+    {
+        "id": 8,
+        "imgOne": "new/front (8).webp",
+        "imgTwo": "new/back (8).webp",
+        "name": "Netro Smoked Oak Dining Chair",
+        "price": 249
+    },
+    {
+        "id": 9,
+        "imgOne": "new/front (9).webp",
+        "imgTwo": "new/back (9).webp",
+        "name": "Hira Natural Ivory Rug 9 x 12",
+        "price": 1199
+    },
+    {
+        "id": 10,
+        "imgOne": "new/front (10).webp",
+        "imgTwo": "new/back (10).webp",
+        "name": "Aquila Sandstone Wool Bouclé Office Chair",
+        "price": 499
+    },
+    {
+        "id": 11,
+        "imgOne": "new/front (11).webp",
+        "imgTwo": "new/back (11).webp",
+        "name": "Aquila Charme Tan Office Chair",
+        "price": 599
+    },
+    {
+        "id": 12,
+        "imgOne": "new/front (12).webp",
+        "imgTwo": "new/back (12).webp",
+        "name": "Kesey Green Multi Pillow",
+        "price": 39
+    },
+    {
+        "id": 13,
+        "imgOne": "new/front (13).webp",
+        "imgTwo": "new/back (13).webp",
+        "name": "Lucca Plush Pacific Rust Pillow Set",
+        "price": 99
+    },
+    {
+        "id": 14,
+        "imgOne": "new/front (14).webp",
+        "imgTwo": "new/back (14).webp",
+        "name": "Tessu Clay Taupe Twin Bed",
+        "price": 699
+    },
+    {
+        "id": 15,
+        "imgOne": "new/front (15).webp",
+        "imgTwo": "new/back (15).webp",
+        "name": "Maribo 48' Storage Ottoman - Sandstone Wool Bouclé",
+        "price": 399
+    },
+    {
+        "id": 16,
+        "imgOne": "new/front (16).webp",
+        "imgTwo": "new/back (16).webp",
+        "name": "Monterey Oak Bench",
+        "price": 529
+    },
+    {
+        "id": 17,
+        "imgOne": "new/front (17).webp",
+        "imgTwo": "new/back (17).webp",
+        "name": "Lenia White Oak 42' Media Unit",
+        "price": 699
+    },
+    {
+        "id": 18,
+        "imgOne": "new/front (18).webp",
+        "imgTwo": "new/back (18).webp",
+        "name": "Ecole Welsh Gray Walnut Dining Chair",
+        "price": 179
+    },
+    {
+        "id": 19,
+        "imgOne": "new/front (19).webp",
+        "imgTwo": "new/back (19).webp",
+        "name": "Cress Brushed Gray Indoor/Outdoor Pillow",
+        "price": 39
+    },
+    {
+        "id": 20,
+        "imgOne": "new/front (20).webp",
+        "imgTwo": "new/back (20).webp",
+        "name": "Nosh Ratine Ivory Oak Counter Stool",
+        "price": 199
+    },
+    {
+        "id": 21,
+        "imgOne": "new/front (21).webp",
+        "imgTwo": "new/back (21).webp",
+        "name": "Lubek 69.25' Low Right Chaise Lounge - Slate Gray",
+        "price": 799
+    },
+    {
+        "id": 22,
+        "imgOne": "new/front (22).webp",
+        "imgTwo": "new/back (22).webp",
+        "name": "Lucca Plush Yarrow Gold Small Pillow",
+        "price": 39
+    },
+    {
+        "id": 23,
+        "imgOne": "new/front (23).webp",
+        "imgTwo": "new/back (23).webp",
+        "name": "Kayra Ivory Bouclé Storage Bench",
+        "price": 649
+    },
+    {
+        "id": 24,
+        "imgOne": "new/front (24).webp",
+        "imgTwo": "new/back (24).webp",
+        "name": "Kayra Ivory Bouclé Queen Storage Bed",
+        "price": 2099
+    },
+    {
+        "id": 25,
+        "imgOne": "new/front (25).webp",
+        "imgTwo": "new/back (25).webp",
+        "name": "Abisko 119' Left Corner Sectional - Welsh Gray",
+        "price": 2499
+    },
+    {
+        "id": 26,
+        "imgOne": "new/front (26).webp",
+        "imgTwo": "new/back (26).webp",
+        "name": "Ecole Black Leather Walnut Dining Chair",
+        "price": 249
+    },
+    {
+        "id": 27,
+        "imgOne": "new/front (27).webp",
+        "imgTwo": "new/back (27).webp",
+        "name": "Coy Black Chandelier",
+        "price": 399
+    },
+    {
+        "id": 28,
+        "imgOne": "new/front (28).webp",
+        "imgTwo": "new/back (28).webp",
+        "name": "Coy Brass Sconce",
+        "price": 99
+    },
+    {
+        "id": 29,
+        "imgOne": "new/front (29).webp",
+        "imgTwo": "new/back (29).webp",
+        "name": "Sanders 85.5' Velvet Sofa - Plush Pacific Green",
+        "price": 999
+    },
+    {
+        "id": 30,
+        "imgOne": "new/front (30).webp",
+        "imgTwo": "new/back (30).webp",
+        "name": "Sanders 85.5' Velvet Reversible Sectional - Plush Pacific Brown",
+        "price": 1499
+    },
+    {
+        "id": 31,
+        "imgOne": "new/front (31).webp",
+        "imgTwo": "new/back (31).webp",
+        "name": "Maribo 32' Storage Ottoman - Sandstone Wool Bouclé",
+        "price": 299
+    },
+    {
+        "id": 32,
+        "imgOne": "new/front (32).webp",
+        "imgTwo": "new/back (32).webp",
+        "name": "Tessu Clay Taupe Full Bed",
+        "price": 799
+    },
+    {
+        "id": 33,
+        "imgOne": "new/front (33).webp",
+        "imgTwo": "new/back (33).webp",
+        "name": "Lubek 69.25' Low Left Chaise Lounge - Slate Gray",
+        "price": 799
+    },
+    {
+        "id": 34,
+        "imgOne": "new/front (34).webp",
+        "imgTwo": "new/back (34).webp",
+        "name": "Lubek Beach Sand Low Right Sectional",
+        "price": 1649
+    },
+    {
+        "id": 35,
+        "imgOne": "new/front (35).webp",
+        "imgTwo": "new/back (35).webp",
+        "name": "Lubek Slate Gray Low Left Sectional",
+        "price": 1599
+    },
+    {
+        "id": 36,
+        "imgOne": "new/front (36).webp",
+        "imgTwo": "new/back (36).webp",
+        "name": "Emmer Black Round Dining Table",
+        "price": 359
+    },
+    {
+        "id": 37,
+        "imgOne": "new/front (37).webp",
+        "imgTwo": "new/back (37).webp",
+        "name": "Lenia White Oak Storage Coffee Table",
+        "price": 499
+    },
+    {
+        "id": 38,
+        "imgOne": "new/front (38).webp",
+        "imgTwo": "new/back (38).webp",
+        "name": "Lento 25' Leather Lounge Chair - Charme Green",
+        "price": 49
+    },
+    {
+        "id": 39,
+        "imgOne": "new/front (39).webp",
+        "imgTwo": "new/back (39).webp",
+        "name": "Oslo Oxblood Table Lamp",
+        "price": 129
+    },
+    {
+        "id": 40,
+        "imgOne": "new/front (40).webp",
+        "imgTwo": "new/back (40).webp",
+        "name": "Harmon Walnut Checkerboard Side Table",
+        "price": 249
+    },
+    {
+        "id": 41,
+        "imgOne": "new/front (41).webp",
+        "imgTwo": "new/back (41).webp",
+        "name": "Sven 88' Tufted Sofa - Green Wool Bouclé",
+        "price": 1299
+    },
+    {
+        "id": 42,
+        "imgOne": "new/front (42).webp",
+        "imgTwo": "new/back (42).webp",
+        "name": "Riley 118.5' Left Sectional - Napa Charcoa",
+        "price": 2899
+    },
+    {
+        "id": 43,
+        "imgOne": "new/front (43).webp",
+        "imgTwo": "new/back (43).webp",
+        "name": "Torme White Oak Media Storage Set",
+        "price": 3699
+    },
+    {
+        "id": 44,
+        "imgOne": "new/front (44).webp",
+        "imgTwo": "new/back (44).webp",
+        "name": "Timber 66.5' Loveseat - Olio Green",
+        "price": 1099
+    },
+    {
+        "id": 45,
+        "imgOne": "new/front (45).webp",
+        "imgTwo": "new/back (45).webp",
+        "name": "Obero Black Floor Mirror",
+        "price": 399
+    },
+    {
+        "id": 46,
+        "imgOne": "new/front (46).webp",
+        "imgTwo": "new/back (46).webp",
+        "name": "Falco Smoked Oak Side Table",
+        "price": 199
+    },
+    {
+        "id": 47,
+        "imgOne": "new/front (47).webp",
+        "imgTwo": "new/back (47).webp",
+        "name": "Quinn 40.5' Swivel Lounge Chair - Nouna Mushroom",
+        "price": 699
+    },
+    {
+        "id": 47,
+        "imgOne": "new/front (47).webp",
+        "imgTwo": "new/back (47).webp",
+        "name": "Quinn 69.5' Loveseat - Nouna Pearl",
+        "price": 1099
+    }
+]
